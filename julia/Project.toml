@@ -1,0 +1,11 @@
+name = "AdventOfCode"
+uuid = "b629d42b-98e7-432b-9239-d410a39c2213"
+authors = ["Ashley Sommer <ashleysommer@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.9"
